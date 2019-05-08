@@ -1,0 +1,14 @@
+C:\hlocal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\hlocal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\hlocal\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\hlocal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\hlocal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\hlocal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\hlocal\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

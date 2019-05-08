@@ -1,0 +1,6 @@
+C:\hlocal\ConsoleApp1\Test2\obj\Debug\TestLista.csprojAssemblyReference.cache
+C:\hlocal\ConsoleApp1\Test2\obj\Debug\TestLista.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\Test2\obj\Debug\TestLista.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\Test2\obj\Debug\TestLista.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\MAP\PracticaHechaPorPablo\ConsoleApp1\Test2\obj\Debug\TestLista.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\MAP\PracticaHechaPorPablo\ConsoleApp1\Test2\obj\Debug\TestLista.csproj.CoreCompileInputs.cache

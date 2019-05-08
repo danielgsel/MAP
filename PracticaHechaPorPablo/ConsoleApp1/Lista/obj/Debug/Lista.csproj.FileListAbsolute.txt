@@ -1,0 +1,6 @@
+C:\hlocal\ConsoleApp1\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\hlocal\ConsoleApp1\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\PracticaHechaPorPablo\ConsoleApp1\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\MAP\PracticaHechaPorPablo\ConsoleApp1\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\MAP\PracticaHechaPorPablo\ConsoleApp1\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
