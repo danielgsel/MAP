@@ -1,0 +1,47 @@
+Delegado --> Nombre de metodo que hace algo
+
+[Test]
+Public void NEsimo_vacia(){
+		Assert.Throws<Exception>(nesmiovacia2);
+		}						  ^DELEGADO TIENE QUE SER UN METODO QUE NO DEVUELVA NADA
+		
+public void nesimovacia2(){
+		lVacia.NEsimo(2);
+		}
+		
+		
+		
+		///////////////////////////////////////////////o
+		
+		[Test]
+Public void NEsimo_vacia(){
+		Assert.Throws<Exception>( () => {lVacia.NEsimo(2);}  );
+		} 								  	
+
+
+		///////////////////////////////////////////
+[SetUp]
+blablablal metodo
+
+Se hace antes de cada test del [TestFixture]
+
+		////////////////////////////////
+		
+[Test]
+public void borraElto_repetidos(){
+
+
+		//Arrange
+		int numElems = lRepeticiones.CuentaEltos();
+		
+		//Act
+		bool borrado = lRepeticiones.BorraElto(2);
+		
+		//Assert
+		Assert.IsTrue(borrado);
+		Assert.AreEqual(,dadasdaf);
+		Assert.AreEqual(...............);
+
+}
+
+
