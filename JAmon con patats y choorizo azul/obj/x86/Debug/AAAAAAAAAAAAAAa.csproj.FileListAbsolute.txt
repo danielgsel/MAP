@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\obj\x86\Debug\AAAAAAAAAAAAAAa.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\obj\x86\Debug\AAAAAAAAAAAAAAa.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\bin\Debug\ConsoleApplication.exe.config
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\bin\Debug\ConsoleApplication.exe
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\bin\Debug\ConsoleApplication.pdb
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\danie\OneDrive\Clase\MAP\JAmon con patats y choorizo azul\obj\x86\Debug\ConsoleApplication.pdb
